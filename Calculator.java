@@ -13,6 +13,10 @@ public class Calculator {
     System.out.println( "testing Merge!" );
   }
 
+  private static int division(int a, int b) {
+    return a / b;
+  }
+
   private static int sum(int a, int b) {
     return a + b;
   }
