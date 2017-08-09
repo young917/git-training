@@ -9,6 +9,8 @@ public class Calculator {
     System.out.println( minus(a,b) );
 
     System.out.println( "Hello World" );
+
+    System.out.println( "testing Merge!" );
   }
 
   private static int sum(int a, int b) {
