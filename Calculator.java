@@ -14,7 +14,11 @@ public class Calculator {
   }
 
   private static int division(int a, int b) {
+<<<<<<< HEAD
     return a / b;     // edit from master
+=======
+    return a / b;    // edit from division
+>>>>>>> division
   }
 
   private static int sum(int a, int b) {
